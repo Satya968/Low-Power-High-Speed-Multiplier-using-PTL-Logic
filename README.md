@@ -227,6 +227,4 @@ Compared to CMOS implementation, the PTL multiplier achieves:
 
 These improvements demonstrate the effectiveness of **Pass Transistor Logic in arithmetic circuit design**.
 
----
 
-# Repository Structure
