@@ -6,7 +6,7 @@ This project implements the research work described in the paper:
 
 **"Low-Power, High-Speed, and Area-Efficient Multiplier Based on the PTL Logic Style"**
 
-The objective of this project is to design and analyze an **8-bit signed Modified Booth Multiplier** using **Pass Transistor Logic (PTL)** and compare its performance with a conventional **CMOS implementation**.
+The objective of this project is to design and analyze an **8-bit signed Modified  Booth Multiplier** using **Pass Transistor Logic (PTL)** and compare its performance with a conventional **CMOS implementation**.
 
 The design focuses on improving:
 
