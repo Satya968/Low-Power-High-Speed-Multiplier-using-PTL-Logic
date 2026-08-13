@@ -212,7 +212,7 @@ PTL logic reduces power consumption due to:
 
 Observation:
 
-Although PTL full adders slightly increase delay, the overall multiplier architecture achieves **lower total delay**.
+Although PTL full adders slightly increase delay, the overall multiplier architecture achieves **lower total delay**
 
 ---
 
